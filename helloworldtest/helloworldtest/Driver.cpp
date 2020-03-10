@@ -7,5 +7,6 @@ int main()
 {
 
 	cout << "Hello mom." << endl;
-
+	system( "pause" );
+	return 0;
 }
